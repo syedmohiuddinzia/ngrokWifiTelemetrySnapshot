@@ -24,4 +24,13 @@ In this demonstration project, a limit switch is connected to an Arduino microco
 - Environmental research (wildlife, weather, etc.)
 - Industrial automation snapshots
 
-Demonstration
+## Requirements
+- Following hardware and softwares are required,
+  -  **Hardware Requirements:** Arduino UNO, Limit Switch, Male-Female Jumpers, 3S portable battery, 12V power supply (DC barrel jack), CUAV P9 telemetry pair, C type USB cable, Laptop or Computer, Mobile Phone (or extra Laptop or Computer), Internet WiFi
+  - **Software Requirements:** Ubuntu OS (24.04), Arduino IDE, Google Chrome.
+
+## Installation
+- Clone repository ```git@github.com:syedmohiuddinzia/ngrokWifiTelemetrySnapshot.git```
+- Open Arduino IDE and select board and port, and then upload code on Arduino MCU.
+- Connect limit switch and telemetry to the Arduino MCU.
+- From project directory run Python code ```python app.py``` 
