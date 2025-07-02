@@ -24,3 +24,4 @@ In this demonstration project, a limit switch is connected to an Arduino microco
 - Environmental research (wildlife, weather, etc.)
 - Industrial automation snapshots
 
+Demonstration
